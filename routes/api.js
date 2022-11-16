@@ -25,5 +25,4 @@ module.exports = (app) => {
         res.json(db);
     });
 
-    
 };
